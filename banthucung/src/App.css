@@ -1,0 +1,471 @@
+@import url("https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap");
+.introduce-background {
+background-color: #82ae46;
+}
+.introduce-header {
+color: rgb(255, 255, 255);
+font-family: "Scheherazade New", serif;
+font-size: 0.8rem;
+}
+.introduce-icon {
+float: left;
+}
+.introduce-text {
+margin-left: 10px;
+float: left;
+}
+.navbar-background {
+background-color: #ffffff;
+box-shadow: 1px 2px 4px rgba(133, 129, 129, 0.5);
+font-family: "Scheherazade New", serif;
+}
+.nav-color-food {
+color: #82ae46;
+cursor: pointer;
+text-shadow: 1.5px 1.5px orangered;
+font-size: 1.8rem;
+text-decoration: none;
+transition: 0.5s;
+}
+.nav-color-food:hover {
+color: #000000;
+}
+.navbar-header-hover {
+cursor: pointer;
+}
+#navbarSupportedContent ul li a:hover {
+color: #121097;
+}
+#navbar-home-hover {
+color: #121097;
+margin-left: 10px;
+}
+.carousels {
+margin-top: 2px;
+}
+.allproduct {
+margin-top: 20px;
+text-align: center;
+font-family: "Scheherazade New", serif;
+}
+.color-price {
+color: red;
+font-size: 1.3rem;
+}
+.card-color {
+box-shadow: 0px 0px 5px 2px rgba(133, 129, 129, 0.5);
+margin-top: 4rem;
+width: 85%;
+border-radius: 0.9rem;
+}
+.card-color:hover {
+-webkit-transform: scale(1.2);
+transform: scale(1.2);
+transition: all 1s;
+}
+.pagination-color {
+margin-top: 4rem;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 1.3rem;
+font-family: "Scheherazade New", serif;
+}
+.carouselFurits {
+width: 1458px;
+height: 365px;
+background-image: url("./Images/fruit.jpg");
+background-size: cover;
+}
+.contentHomeFruits {
+font-size: 2rem;
+font-family: "Scheherazade New", serif;
+}
+.contentFruits {
+font-size: 6rem;
+font-family: "Scheherazade New", serif;
+color: green;
+padding-bottom: 125px;
+}
+
+.contentHomeVegetables {
+font-size: 2rem;
+font-family: "Scheherazade New", serif;
+}
+
+.contentVegetables {
+font-size: 6rem;
+font-family: "Scheherazade New", serif;
+color: green;
+padding-bottom: 125px;
+}
+.contents {
+margin-top: 2rem;
+text-align: center;
+font-size: 5rem;
+color: green;
+font-family: "Scheherazade New", serif;
+}
+.footercolor {
+background-color: #4e4d4a;
+}
+footer {
+font-family: "Scheherazade New", serif;
+}
+.buttonfooter {
+margin-top: 0.7rem;
+margin-bottom: 0.7rem;
+}
+.content_P {
+text-align: justify;
+}
+.Searchcss {
+box-sizing: border-box;
+font-family: "Scheherazade New", serif;
+}
+.boxSearch {
+width: 350px;
+height: 50px;
+border-radius: 30px;
+display: flex;
+align-items: center;
+padding: 20px;
+box-shadow: 0 0 0 0.1rem green;
+margin-top: 2rem;
+}
+.boxSearch > i {
+font-size: 20px;
+color: green;
+}
+
+.boxSearch > input {
+cursor: text;
+flex: 1;
+height: 40px;
+border: none;
+outline: none;
+font-size: 18px;
+padding-left: 10px;
+}
+.boxSearch:hover {
+box-shadow: 0 0 0 0.1rem rgb(255, 166, 0);
+}
+.Searchcss .cartcss{
+float: right;
+padding-left: 29rem;
+font-size: 4rem;
+right: 0;
+}
+.inputcss{
+float: left;
+}
+.navbar-toggler{
+background:rgba(219, 216, 216, 0.5);
+transition: 0.5s;
+}
+.nav-icon{
+font-size: 1.5rem;
+}
+.navbar-toggler:hover{
+box-shadow: 0 0 0 0.1rem rgb(255, 166, 0);
+}
+#users{
+color: red;
+font-family: "Scheherazade New", serif;
+cursor: pointer;
+transition: 0.5s;
+}
+#users:hover{
+color: #121097;
+}
+/* Css Vũ */
+.Firstimg {
+width: 1475px;
+height: 369px;
+}
+.Third {
+display: flex;
+justify-content: right;
+align-items: right;
+}
+.ThirdCss {
+margin-top: 3rem;
+margin-bottom: 3rem;
+}
+.layla{
+margin-bottom: -3.5rem;
+
+}
+.video1 {
+width: auto;
+height: auto;
+}
+.boder-img{
+width: 200px;
+height: 200px;
+background-color: red;
+border-radius: 50%; 
+background-size: cover;
+border: #ff0000 solid 2px;
+margin-left: 2rem;
+}
+.hihi {
+background-color: #82AE46;
+}
+.Fourth {
+margin-bottom: 3rem;
+
+}
+.iconSmall{
+position: absolute;
+top: 51.5%;
+margin-left: 8rem;
+font-size: 1rem;
+
+}
+.h1{
+font-family: 'Scheherazade New', serif;
+}
+.kill {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.iconAbouts {
+border-radius: 50%;
+
+}
+.fourth {
+height: 350px;
+}
+.second {
+margin-top: 2rem;
+}
+
+/* Css Home */
+.AllFifthcss{
+margin-top: 2rem;
+cursor: pointer;
+}
+
+/* Css Quang */
+.Todoimg {
+margin-bottom: 130px;
+}
+.Contact{
+background-color:#f7f6f2;
+color: #808080;
+font-size: 15px;
+line-height: 27px;
+padding: 90px 0px ;
+text-align: left;
+}
+
+.Ichi{
+padding: 6px 12px;
+}
+.informations{
+width: 268px;
+height: 148px;
+}
+.Addresscss{
+margin-top: 6rem;
+}
+.Mapcss{
+margin-top: 4rem;
+}
+.informations p{
+text-align: center;
+}
+.Forminputcss {
+height: 53px;
+border-radius: 1rem;
+}
+.bd-4{
+border-radius: 2rem;
+transition: 0.5s;
+}
+.bd-4:hover{
+background-color: white;
+color: blue;
+border: blue solid 1px;;
+}
+.manager{
+height: 26rem;
+width: 40rem;
+}
+
+.selectcss{
+width: 150px;
+}
+.Singlecard{
+font-family: 'Scheherazade New', serif;
+}
+.evaluatecss{
+font-size: 1.5rem;
+}
+.products{
+text-align: center;
+}
+.ducts{
+height: 360px;
+
+
+}
+.updown{
+margin-top: 15px;
+}
+.skin {
+text-align: center;
+}
+.menu{
+margin-top: 4rem;
+}
+
+.zoom {
+padding: 50px;
+transition: transform .2s;  
+}
+.zoom:hover {
+transform: scale(1.5);
+}
+.bt-3{
+border-radius: 2rem;
+transition: 0.5s;
+}
+.bt-3:hover{
+background-color: white;
+color: blue;
+border: blue solid 1px;;
+}
+.imgSg{
+  margin-top: 2rem;
+}
+
+/* Css Tuấn */
+.container-fluid-tuan {
+  background-color: rgb(102, 238, 231);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-login {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  background: rgb(255, 255, 255);
+  margin-top: -15rem;
+  width: 642px;
+  height: 597px;
+  border-radius: 1rem;
+  font-family: 'Scheherazade New', serif;
+}
+.form-btn {
+  margin-bottom: 2rem;
+}
+.container-form{
+  margin-top: 10rem;
+  padding: 5rem;
+}
+.container-login .title {
+  text-align: center;
+  margin: 80px 0px 20px 0px;
+  margin-top: 2rem;
+}
+.title{
+  color: blue;
+  font-family: 'Scheherazade New', serif;
+}
+.submit-btn{
+  margin-left: 7.5rem;
+  margin-top: 1rem;
+  width: 15rem;
+  height: 3rem;
+  border-radius: 2rem;
+  font-size: 1.3rem;
+}
+.submit-btn:hover{
+  background-color: rgb(102, 238, 231);
+  color: rgb(46, 27, 214);
+}
+.input-btn {
+  margin-top: 1rem;
+}
+.lock-btn {
+  font-size: 1.5rem;
+}
+.eye-btn{
+  width: 30px;
+}
+.eye-btn:hover{
+  background-color: rgb(207, 206, 206);
+  cursor: pointer;
+  border-radius: 2.3rem;
+}
+
+/* Css Tuấn Cart */
+.ctn-header {
+  margin-top: 2rem;
+  background: rgb(192, 255, 195);
+  height: 50px;
+  font-size: 1.8rem;
+  color: #ee3059;
+  margin-bottom: 1.5rem;
+  font-family: 'Scheherazade New', serif;
+}
+.ctn-form {
+  background: rgb(241, 238, 243);
+  margin-bottom: 1rem;
+  color: orange;
+  font-family: 'Scheherazade New', serif;
+}
+.ctn-total{
+  background: #fed6dd;
+  margin-bottom: 1rem;
+  color: red;
+  font-family: 'Scheherazade New', serif;
+}
+.ctn-total h1{
+  font-size: 2rem;
+  margin-top: 0.5rem;
+}
+.ctn-total h4{
+  font-size: 2rem;
+  margin-top: 0.5rem;
+}
+.ctn-total button{
+  margin-top: 0.7rem;
+}
+.ctn-form h2 {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+}
+.qlt {
+  margin-left: -3rem;
+}
+.ctn-form h5 {
+  font-size: 0.7rem;
+  margin-top: 0.5rem;
+}
+.ctn-form span {
+  font-size: 1.2rem;
+}
+.ctn-form button {
+  margin-top: 1rem;
+  height: 3rem;
+}
+.img-btn-prd{
+  height: 5rem;
+  border-radius: 1.5rem;
+}
+.isEmpty{
+  margin-top: 2rem;
+  text-align: center;
+  color: red;
+  font-family: 'Scheherazade New', serif;
+  font-size: 1.5rem;
+}
+.cart-down{
+  margin-left: 2rem;
+}
